@@ -1,0 +1,16 @@
+.btn-form {border-radius: 4px;}
+.regis:link {
+    text-decoration:none;
+    color: rgb(12, 9, 9);
+    }
+    .regis:visited {
+    text-decoration:none;
+    }
+
+   
+      /* mouse over link */
+      .regis:hover {
+        color: rgb(255, 255, 255);
+      }
+
+      .regis:visited{ color: rgb(249, 252, 249);}
